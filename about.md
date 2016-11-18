@@ -31,11 +31,11 @@ Conducting researches using R, Python, SPSS, EEGlab, BrainStorm, Psychopy, Prese
 
 ### Conference and Posters ###
 
-- 2016. 10 / The Linguistic Society of Korea / **The influence of speaker's L1 accent  on L2 listener's perception of speech - ERP study** 
+- [2016. 10] The Linguistic Society of Korea / **The influence of speaker's L1 accent  on L2 listener's perception of speech - ERP study** 
 
-- 2016. 9 / The Korean Society for Psycholinguistics / __The effect of speakers’ L1 background on liquid sound perception by L2 listeners - ERP study__ 
+- [2016. 9] The Korean Society for Psycholinguistics / __The effect of speakers’ L1 background on liquid sound perception by L2 listeners - ERP study__ 
 
-- 2016. 5 / The Korean Society for Cognitive Science Annual Spring Conference / __Acquisition of Stress-based Strategies for Word Segmentation of Korean Learners of English__ 
+- [2016. 5] The Korean Society for Cognitive Science Annual Spring Conference / __Acquisition of Stress-based Strategies for Word Segmentation of Korean Learners of English__ 
 
 
 
