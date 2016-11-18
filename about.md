@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 <br>
-  ### Nayeon Kwon
-
+### Nayeon Kwon
+![img src = nayeona.github.io/image/na1.jpg
 I majored Korean language and literature in undergraduate and got master's degree in English Education.<br>
 I studied how students learn a new language in a view of statistical learning and motor recognition.<br>
 Now I am in the between of master's and higher education in Cognition associated research field.<br>
@@ -31,7 +31,7 @@ Conducting researches using R, Python, SPSS, EEGlab, BrainStorm, Psychopy, Prese
 
 ### Conference and Posters
 - 2016. 10 / The Linguistic Society of Korea / __The influence of speaker's L1 accent  on L2 listener's perception of speech - ERP study__
-- 2016. 9 / The Korean Society for Psycholinguistics / __ The effect of speakers’ L1 background on liquid sound perception by L2 listeners - ERP study __
+- 2016. 9 / The Korean Society for Psycholinguistics / __The effect of speakers’ L1 background on liquid sound perception by L2 listeners - ERP study__
 - 2016. 5 / The Korean Society for Cognitive Science Annual Spring Conference / __Acquisition of Stress-based Strategies for Word Segmentation of Korean Learners of English__
 
 
