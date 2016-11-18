@@ -15,16 +15,18 @@ This blog is mainly for `the study notes with regard to Cognitive Science issues
 
 Also, personal reviews are posted related to a wide range of books, films, other productions around me.<br>
 
-
-
+<br>
+<br>
+<br>
 
 ### More Information
 
-I am from a 1853465 demansion places.<br>
-21C stranger.
+I am from a 1853465 demansion places,<br>
+21c stranger.
 
-
-
+<br>
+<br>
+<br>
 
 ### Contact me
 
