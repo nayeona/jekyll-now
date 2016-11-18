@@ -12,7 +12,7 @@ Now I am in the between of master's and higher education in Cognition associated
 This blog is mainly for `the study notes with regard to Cognitive Science issues and Methodologies`.<br>
 Also, personal reviews are posted related to a wide range of books, films, other productions around me.
 <br>
-<br>
+
 ### Researches ###
 
 My research interests are *language acquisition and processing, perceptual learning, emotion or heuristics.*<br>
@@ -21,7 +21,7 @@ I'd like to keep studying Human's perception and the elements influencing the pe
 I am also interested in *Data Processing - statistics, machine learning etc.* in a variety of methological windows.<br>
 Conducting researches using R, Python, SPSS, EEGlab, BrainStorm, Psychopy, Presentation, BrainVision EEG systems, etc. 
 <br>
-<br>
+
 ### Publication 
 
 *In process* 
