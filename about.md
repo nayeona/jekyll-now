@@ -24,7 +24,7 @@ Conducting researches using R, Python, SPSS, EEGlab, BrainStorm, Psychopy, Prese
 <br>
 <br>
 
-###Publication###<br>
+### Publication ###<br>
 *In process* 
 <br>
 <br>
@@ -38,5 +38,5 @@ Conducting researches using R, Python, SPSS, EEGlab, BrainStorm, Psychopy, Prese
 
 ### Contact me ###
 
-[nayeona@gmail.com](mailto:nayeona@gmail.com)<br>
+[nayeona.hi@gmail.com](mailto:nayeona@gmail.com)<br>
 [On facebook](https://www.facebook.com/nayeon.kw)
