@@ -10,7 +10,7 @@ permalink: /about/
 I studied how students learn a new language in a view of statistical learning and motor recognition.<br>
 Now I am in the between of master's and higher education in Cognition associated research field.<br>
 This blog is mainly for `the study notes with regard to Cognitive Science issues and Methodologies`.<br>
-Also, personal reviews are posted related to a wide range of books, films, other productions around me.<br>
+Also, personal reviews are posted related to a wide range of books, films, other productions around me.
 <br>
 <br>
 ### Researches
