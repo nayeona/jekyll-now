@@ -22,7 +22,7 @@ Conducting researches using R, Python, SPSS, EEGlab, BrainStorm, Psychopy, Prese
 <br>
 <br>
 ### Publication
-- In process 
+*In process* 
 <br>
 <br>
 ### Conference and Posters
