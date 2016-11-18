@@ -22,8 +22,8 @@ I am also interested in *Data Processing - statistics, machine learning etc.* in
 Conducting researches using R, Python, SPSS, EEGlab, BrainStorm, Psychopy, Presentation, BrainVision EEG systems, etc. 
 <br>
 <br>
-### Publication ###<br>
-
+### Publication ### 
+<br>
 *In process* 
 <br>
 
